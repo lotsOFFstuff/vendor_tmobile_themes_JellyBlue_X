@@ -94,6 +94,8 @@
 	<item name="drawable/divider_vertical_dark_opaque">@drawable/frameworks_res_divider_vertical_dark_opaque</item>
 	<item name="drawable/divider_vertical_holo_dark">@drawable/frameworks_res_divider_vertical_holo_dark</item>
 	<!-- png -->
+	<item name="drawable/fastscroll_thumb_default_holo">@drawable/frameworks_res_fastscroll_thumb_default_holo</item>
+	<item name="drawable/fastscroll_thumb_pressed_holo">@drawable/frameworks_res_fastscroll_thumb_pressed_holo</item>
 	<item name="drawable/settings_header_raw">@drawable/frameworks_res_settings_header_raw</item>
 	<item name="drawable/btn_lock_normal">@drawable/frameworks_res_btn_lock_normal</item>
 	<item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
