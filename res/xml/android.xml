@@ -88,11 +88,20 @@
 	<item name="drawable/ic_lock_screenshot">@drawable/ic_lock_screenshot</item>
 	<item name="drawable/ic_lock_silent_mode_off">@drawable/ic_lock_silent_mode_off</item>
 	<!-- divider -->
+	<item name="drawable/divider_horizontal_bright">@drawable/frameworks_res_divider_horizontal_bright</item>
 	<item name="drawable/divider_horizontal_bright_opaque">@drawable/frameworks_res_divider_horizontal_bright_opaque</item>
+	<item name="drawable/divider_horizontal_dark">@drawable/frameworks_res_divider_horizontal_dark</item>
 	<item name="drawable/divider_horizontal_dark_opaque">@drawable/frameworks_res_divider_horizontal_dark_opaque</item>
+	<item name="drawable/divider_horizontal_dim_dark">@drawable/frameworks_res_divider_horizontal_dim_dark</item>
+	<item name="drawable/divider_horizontal_holo_dark">@drawable/frameworks_res_divider_horizontal_holo_dark</item>
+	<item name="drawable/divider_horizontal_holo_light">@drawable/frameworks_res_divider_horizontal_holo_light</item>
+	<item name="drawable/divider_horizontal_textfield">@drawable/frameworks_res_divider_horizontal_textfield</item>
+	<item name="drawable/divider_vertical_bright">@drawable/frameworks_res_divider_vertical_bright</item>
 	<item name="drawable/divider_vertical_bright_opaque">@drawable/frameworks_res_divider_vertical_bright_opaque</item>
+	<item name="drawable/divider_vertical_dark">@drawable/frameworks_res_divider_vertical_dark</item>
 	<item name="drawable/divider_vertical_dark_opaque">@drawable/frameworks_res_divider_vertical_dark_opaque</item>
 	<item name="drawable/divider_vertical_holo_dark">@drawable/frameworks_res_divider_vertical_holo_dark</item>
+	<item name="drawable/divider_vertical_holo_light">@drawable/frameworks_res_divider_vertical_holo_light</item>
 	<!-- png -->
 	<item name="drawable/fastscroll_thumb_default_holo">@drawable/frameworks_res_fastscroll_thumb_default_holo</item>
 	<item name="drawable/fastscroll_thumb_pressed_holo">@drawable/frameworks_res_fastscroll_thumb_pressed_holo</item>
