@@ -273,6 +273,7 @@
 	<item name="drawable/notification_bg_normal">@drawable/frameworks_res_notification_bg_normal</item>
 	<item name="drawable/notification_bg_normal_pressed">@drawable/frameworks_res_notification_bg_normal_pressed</item>
 	<item name="drawable/notify_panel_notification_icon_bg">@drawable/frameworks_res_notify_panel_notification_icon_bg</item>
+	<item type="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 	<item name="drawable/numberpicker_down_disabled">@drawable/frameworks_res_numberpicker_down_disabled</item>
 	<item name="drawable/numberpicker_down_disabled_focused">@drawable/frameworks_res_numberpicker_down_disabled_focused</item>
 	<item name="drawable/numberpicker_down_disabled_holo_dark">@drawable/frameworks_res_numberpicker_down_disabled_holo_dark</item>
