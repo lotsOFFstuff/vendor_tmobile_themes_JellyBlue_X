@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+	<!-- colors -->
+	<item name="color/notification_panel_solid_background">@color/notification_panel_solid_background</item>
+	<item name="color/status_bar_recents_app_label_color">@color/status_bar_recents_app_label_color</item>
+	<item name="color/notification_list_shadow_top">@color/notification_list_shadow_top</item>
 	<!-- styles -->
 	<item name="style/TextAppearance.StatusBar.Expanded.Clock">@style/TextAppearance.StatusBar.Expanded.Clock</item>
 	<item name="style/TextAppearance.StatusBar.Expanded.Date">@style/TextAppearance.StatusBar.Expanded.Date</item>
@@ -28,11 +32,11 @@
 	<item name="drawable/ic_sysbar_screenshot">@drawable/com_android_systemui_ic_sysbar_screenshot</item>
 	<item name="drawable/ic_sysbar_search">@drawable/com_android_systemui_ic_sysbar_search</item>
 
-	<item name="drawable/btn_default_small_normal">@drawable/frameworks_res_btn_default_small_normal</item>
-	<item name="drawable/btn_default_small_normal_disable">@drawable/frameworks_res_btn_default_small_normal_disable</item>
-	<item name="drawable/btn_default_small_normal_disable_focused">@drawable/frameworks_res_btn_default_small_normal_disable_focused</item>
-	<item name="drawable/btn_default_small_pressed">@drawable/frameworks_res_btn_default_small_pressed</item>
-	<item name="drawable/btn_default_small_selected">@drawable/frameworks_res_btn_default_small_selected</item>
+	<item name="drawable/btn_default_small_normal">@drawable/framework_res_btn_default_small_normal</item>
+	<item name="drawable/btn_default_small_normal_disable">@drawable/framework_res_btn_default_small_normal_disable</item>
+	<item name="drawable/btn_default_small_normal_disable_focused">@drawable/framework_res_btn_default_small_normal_disable_focused</item>
+	<item name="drawable/btn_default_small_pressed">@drawable/framework_res_btn_default_small_pressed</item>
+	<item name="drawable/btn_default_small_selected">@drawable/framework_res_btn_default_small_selected</item>
 	<item name="drawable/status_bar_bg_tile">@drawable/com_android_systemui_status_bar_bg_tile</item>
 	<item name="drawable/status_bar_close_off">@drawable/com_android_systemui_status_bar_close_off</item>
 	<item name="drawable/status_bar_close_on">@drawable/com_android_systemui_status_bar_close_on</item>
@@ -101,6 +105,8 @@
 	<item name="drawable/toggle_wifi_ap">@drawable/com_android_systemui_toggle_wifi_ap</item>
 	<item name="drawable/toggle_wifi_ap_off">@drawable/com_android_systemui_toggle_wifi_ap_off</item>
 	<item name="drawable/toggle_wifi_off">@drawable/com_android_systemui_toggle_wifi_off</item>
+	<item name="drawable/nav_bar_bg">@drawable/nav_bar_bg</item>
+
 	<!-- signal -->
 	<item name="drawable/stat_sys_signal_0">@drawable/com_android_systemui_stat_sys_signal_0</item>
 	<item name="drawable/stat_sys_signal_0_alt">@drawable/com_android_systemui_stat_sys_signal_0_alt</item>

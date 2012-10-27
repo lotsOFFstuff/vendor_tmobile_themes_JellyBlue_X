@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<color name="notification_panel_solid_background">#ff000000</color>
+	<color name="status_bar_recents_app_label_color">#ff33B5E5</color>
+	<color name="notification_list_shadow_top">#80000000</color>
 	<color name="xda_background">#ff000000</color>
 	<color name="xda_font">#ffffffff</color>
-<!--swype colors-->
+	<!--swype colors-->
 	<color name="trace_color">#ffffffff</color>
 	<color name="about_swype_links">#ffffffff</color>
 	<color name="word_inline_background_color">#ffffffff</color>
@@ -14,5 +17,5 @@
 	<color name="widget_sender_text_color_read">#dfdfdf</color>
 	<color name="widget_sender_text_color_unread">#efefef</color>
 	<color name="widget_subject_text_color_read">#ffffff</color>
-	<color name="widget_subject_text_color_unread">#33B5E5</color>
+	<color name="widget_subject_tex_color_unread">#33B5E5</color>
 </resources>
