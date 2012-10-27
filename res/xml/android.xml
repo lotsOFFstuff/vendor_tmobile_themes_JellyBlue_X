@@ -322,6 +322,8 @@
 	<item name="drawable/scrollbar_handle_accelerated_anim2">@drawable/frameworks_res_scrollbar_handle_accelerated_anim2</item>
 	<item name="drawable/scrollbar_handle_horizontal">@drawable/frameworks_res_scrollbar_handle_horizontal</item>
 	<item name="drawable/scrollbar_handle_vertical">@drawable/frameworks_res_scrollbar_handle_vertical</item>
+	<item name="drawable/scrollbar_handle_holo_dark">@drawable/scrollbar_handle_holo_dark</item>
+	<item name="drawable/scrollbar_handle_holo_light">@drawable/scrollbar_handle_holo_light</item>
 	<item name="drawable/seek_thumb_normal">@drawable/frameworks_res_seek_thumb_normal</item>
 	<item name="drawable/seek_thumb_pressed">@drawable/frameworks_res_seek_thumb_pressed</item>
 	<item name="drawable/seek_thumb_selected">@drawable/frameworks_res_seek_thumb_selected</item>

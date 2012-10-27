@@ -9,10 +9,12 @@
 	<item type="drawable" name="notification_item_background_legacy_color">#ff8C8C8C</item>
 	<item type="drawable" name="intruder_bg_pressed">#ff33b5e5</item>
 	<item type="drawable" name="system_bar_background">#ff000000</item>
+	<item type="drawable" name="notification_template_icon_low_bg">#ff000000</item>
+	<item type="drawable" name="notification_template_icon_bg">#ff000000</item>
 	<item type="drawable" name="notification_icon_area_smoke">#ff000000</item>
 	<item type="drawable" name="notification_item_background_color">#ff8C8C8C</item>
 	<item type="drawable" name="status_bar_recents_background_solid">#ff000000</item>
 	<item type="drawable" name="notification_header_bg">#ff000000</item>
-	<item type="drawable" name="notification_template_icon_bg">#ff000000</item>
+
 </resources>
 
