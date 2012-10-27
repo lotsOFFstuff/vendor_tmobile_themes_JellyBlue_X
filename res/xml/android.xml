@@ -420,7 +420,7 @@
 	<item name="drawable/ab_transparent_light_holo">@drawable/frameworks_res_ab_transparent_light_holo</item>
 
 	<!-- styles -->
-	<item name="style/Theme.Holo.Light.DarkActionBar">@android:style/Theme.Holo</item>
+
 	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
 	<item name="style/TextAppearance.Small">@style/TextAppearance.Small</item>
 </resource-redirections>
