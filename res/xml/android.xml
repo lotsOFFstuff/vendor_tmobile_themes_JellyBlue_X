@@ -88,6 +88,16 @@
 	<item name="drawable/ic_lock_screenshot">@drawable/ic_lock_screenshot</item>
 	<item name="drawable/ic_lock_silent_mode_off">@drawable/ic_lock_silent_mode_off</item>
 	<!-- divider -->
+	<item name="drawable/divider_strong_holo">@drawable/frameworks_res_divider_strong_holo</item>
+	<item name="drawable/numberpicker_selection_divider">@drawable/frameworks_res_numberpicker_selection_divider</item>
+	<item name="drawable/list_section_divider_holo_dark">@drawable/frameworks_res_list_section_divider_holo_dark</item>
+	<item name="drawable/list_section_divider_holo_light">@drawable/frameworks_res_list_section_divider_holo_light</item>
+	<item name="drawable/list_divider_holo_dark">@drawable/frameworks_res_list_divider_holo_dark</item>
+	<item name="drawable/list_divider_holo_light">@drawable/frameworks_res_list_divider_holo_light</item>
+	<item name="drawable/list_divider_horizontal_holo_dark">@drawable/frameworks_res_list_divider_horizontal_holo_dark</item>
+	<item name="drawable/dialog_divider_horizontal_holo_dark">@drawable/frameworks_res_dialog_divider_horizontal_holo_dark</item>
+	<item name="drawable/dialog_divider_horizontal_holo_light">@drawable/frameworks_res_dialog_divider_horizontal_holo_light</item>
+	<item name="drawable/dialog_divider_horizontal_light">@drawable/frameworks_res_dialog_divider_horizontal_light</item>
 	<item name="drawable/divider_horizontal_bright">@drawable/frameworks_res_divider_horizontal_bright</item>
 	<item name="drawable/divider_horizontal_bright_opaque">@drawable/frameworks_res_divider_horizontal_bright_opaque</item>
 	<item name="drawable/divider_horizontal_dark">@drawable/frameworks_res_divider_horizontal_dark</item>
@@ -284,7 +294,6 @@
 	<item name="drawable/numberpicker_input_normal">@drawable/frameworks_res_numberpicker_input_normal</item>
 	<item name="drawable/numberpicker_input_pressed">@drawable/frameworks_res_numberpicker_input_pressed</item>
 	<item name="drawable/numberpicker_input_selected">@drawable/frameworks_res_numberpicker_input_selected</item>
-	<item name="drawable/numberpicker_selection_divider">@drawable/frameworks_res_numberpicker_selection_divider</item>
 	<item name="drawable/numberpicker_up_disabled">@drawable/frameworks_res_numberpicker_up_disabled</item>
 	<item name="drawable/numberpicker_up_disabled_focused">@drawable/frameworks_res_numberpicker_up_disabled_focused</item>
 	<item name="drawable/numberpicker_up_disabled_holo_dark">@drawable/frameworks_res_numberpicker_up_disabled_holo_dark</item>
