@@ -49,4 +49,6 @@
 	<item name="drawable/tab_unselected_holo">@drawable/com_android_contacts_tab_unselected_holo</item>
 	<item name="drawable/tab_unselected_pressed_holo">@drawable/com_android_contacts_tab_unselected_pressed_holo</item>
 	<item name="drawable/ic_contacts_holo_dark">@drawable/com_android_contacts_ic_contacts_holo_dark</item>
+	<item name="drawable/account_spinner_icon">@drawable/com_android_contacts_account_spinner_icon</item>
+
 </resource-redirections>
