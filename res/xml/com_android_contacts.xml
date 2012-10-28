@@ -48,4 +48,5 @@
 	<item name="drawable/tab_unselected_focused_holo">@drawable/com_android_contacts_tab_unselected_focused_holo</item>
 	<item name="drawable/tab_unselected_holo">@drawable/com_android_contacts_tab_unselected_holo</item>
 	<item name="drawable/tab_unselected_pressed_holo">@drawable/com_android_contacts_tab_unselected_pressed_holo</item>
+	<item name="drawable/ic_contacts_holo_dark">@drawable/com_android_contacts_ic_contacts_holo_dark</item>
 </resource-redirections>
