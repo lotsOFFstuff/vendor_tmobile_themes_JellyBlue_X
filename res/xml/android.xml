@@ -409,7 +409,35 @@
 	<item name="drawable/ab_stacked_transparent_light_holo">@drawable/framework_res_ab_stacked_transparent_light_holo</item>
 	<item name="drawable/ab_transparent_dark_holo">@drawable/framework_res_ab_transparent_dark_holo</item>
 	<item name="drawable/ab_transparent_light_holo">@drawable/framework_res_ab_transparent_light_holo</item>
-
+	<!-- buttons -->
+	<item name="drawable/btn_check_off_disabled_focused_holo_dark">@drawable/framework_res_btn_check_off_disabled_focused_holo_dark</item>
+	<item name="drawable/btn_check_off_disabled_focused_holo_light">@drawable/framework_res_btn_check_off_disabled_focused_holo_light</item>
+	<item name="drawable/btn_check_off_disabled_holo_dark">@drawable/framework_res_btn_check_off_disabled_holo_dark</item>
+	<item name="drawable/btn_check_off_disabled_holo_light">@drawable/framework_res_btn_check_off_disabled_holo_light</item>
+	<item name="drawable/btn_check_off_disable_focused_holo_dark">@drawable/framework_res_btn_check_off_disable_focused_holo_dark</item>
+	<item name="drawable/btn_check_off_disable_focused_holo_light">@drawable/framework_res_btn_check_off_disable_focused_holo_light</item>
+	<item name="drawable/btn_check_off_disable_holo_dark">@drawable/framework_res_btn_check_off_disable_holo_dark</item>
+	<item name="drawable/btn_check_off_disable_holo_light">@drawable/framework_res_btn_check_off_disable_holo_light</item>
+	<item name="drawable/btn_check_off_focused_holo_dark">@drawable/framework_res_btn_check_off_focused_holo_dark</item>
+	<item name="drawable/btn_check_off_focused_holo_light">@drawable/framework_res_btn_check_off_focused_holo_light</item>
+	<item name="drawable/btn_check_off_holo">@drawable/framework_res_btn_check_off_holo</item>
+	<item name="drawable/btn_check_off_holo_dark">@drawable/framework_res_btn_check_off_holo_dark</item>
+	<item name="drawable/btn_check_off_holo_light">@drawable/framework_res_btn_check_off_holo_light</item>
+	<item name="drawable/btn_check_off_normal_holo_dark">@drawable/framework_res_btn_check_off_normal_holo_dark</item>
+	<item name="drawable/btn_check_off_normal_holo_light">@drawable/framework_res_btn_check_off_normal_holo_light</item>
+	<item name="drawable/btn_check_off_pressed_holo_dark">@drawable/framework_res_btn_check_off_pressed_holo_dark</item>
+	<item name="drawable/btn_check_off_pressed_holo_light">@drawable/framework_res_btn_check_off_pressed_holo_light</item>
+	<item name="drawable/btn_check_on_disabled_focused_holo_dark">@drawable/framework_res_btn_check_on_disabled_focused_holo_dark</item>
+	<item name="drawable/btn_check_on_disabled_focused_holo_light">@drawable/framework_res_btn_check_on_disabled_focused_holo_light</item>
+	<item name="drawable/btn_check_on_disabled_holo_dark">@drawable/framework_res_btn_check_on_disabled_holo_dark</item>
+	<item name="drawable/btn_check_on_disabled_holo_light">@drawable/framework_res_btn_check_on_disabled_holo_light</item>
+	<item name="drawable/btn_check_on_focused_holo_dark">@drawable/framework_res_btn_check_on_focused_holo_dark</item>
+	<item name="drawable/btn_check_on_focused_holo_light">@drawable/framework_res_btn_check_on_focused_holo_light</item>
+	<item name="drawable/btn_check_on_holo">@drawable/framework_res_btn_check_on_holo</item>
+	<item name="drawable/btn_check_on_holo_dark">@drawable/framework_res_btn_check_on_holo_dark</item>
+	<item name="drawable/btn_check_on_holo_light">@drawable/framework_res_btn_check_on_holo_light</item>
+	<item name="drawable/btn_check_on_pressed_holo_dark">@drawable/framework_res_btn_check_on_pressed_holo_dark</item>
+	<item name="drawable/btn_check_on_pressed_holo_light">@drawable/framework_res_btn_check_on_pressed_holo_light</item>
 	<!-- styles -->
 	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
 	<item name="style/TextAppearance.Small">@style/TextAppearance.Small</item>
