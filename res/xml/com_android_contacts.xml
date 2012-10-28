@@ -50,5 +50,7 @@
 	<item name="drawable/tab_unselected_pressed_holo">@drawable/com_android_contacts_tab_unselected_pressed_holo</item>
 	<item name="drawable/ic_contacts_holo_dark">@drawable/com_android_contacts_ic_contacts_holo_dark</item>
 	<item name="drawable/account_spinner_icon">@drawable/com_android_contacts_account_spinner_icon</item>
+	<item name="drawable/ic_dial_action_call">@drawable/com_android_contacts_ic_dial_action_call</item>
+	<item name="drawable/ic_divider_dashed_holo_dark">@drawable/ic_divider_dashed_holo_dark</item>
 
 </resource-redirections>
