@@ -1,7 +1,5 @@
 # Can ignore specific files
-aapt
 .properties
--resources
 
 # Use wildcards as well
 *~
