@@ -103,8 +103,8 @@
 	<item name="drawable/divider_vertical_holo_dark">@drawable/framework_res_divider_vertical_holo_dark</item>
 	<item name="drawable/divider_vertical_holo_light">@drawable/framework_res_divider_vertical_holo_light</item>
 	<!-- png -->
-	<item name="drawable/fastscroll_thumb_default_holo">@drawable/framework_res_fastscroll_thumb_default_holo</item>
-	<item name="drawable/fastscroll_thumb_pressed_holo">@drawable/framework_res_fastscroll_thumb_pressed_holo</item>
+	<item name="drawable/fastscroll_thumb_default_holo">@drawable/fastscroll_thumb_default_holo</item>
+	<item name="drawable/fastscroll_thumb_pressed_holo">@drawable/fastscroll_thumb_pressed_holo</item>
 	<item name="drawable/settings_header_raw">@drawable/framework_res_settings_header_raw</item>
 	<item name="drawable/btn_lock_normal">@drawable/framework_res_btn_lock_normal</item>
 	<item name="drawable/background_holo_dark">@drawable/framework_res_background_holo_dark</item>
