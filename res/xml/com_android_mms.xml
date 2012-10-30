@@ -13,4 +13,6 @@
 	<item name="drawable/ic_send_holo_light">@drawable/ic_send_holo_light</item>
 	<item name="drawable/ic_send_holo_light_quick_reply">@drawable/ic_send_holo_light_quick_reply</item>
 	<item name="drawable/ic_templates_holo_light">@drawable/ic_templates_holo_light</item>
+	<item name="drawable/ic_templates_holo_dark">@drawable/ic_templates_holo_dark</item>
+
 </resource-redirections>
