@@ -5,7 +5,8 @@
 	<color name="notification_list_shadow_top">#80000000</color>
 	<color name="xda_background">#ff000000</color>
 	<color name="xda_font">#ffffffff</color>
-	<color name="keyHintLetterColor">#ffffffff</color>
+	<color name="keyHintLetterColor">#ff33B5E5</color>
+	<color name="suggestion_divider_background">#ff33B5E5</color>
 	<!--swype colors-->
 	<color name="trace_color">#ffffffff</color>
 	<color name="about_swype_links">#ffffffff</color>
