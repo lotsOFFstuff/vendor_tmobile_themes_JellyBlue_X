@@ -103,6 +103,7 @@
 	<item name="drawable/divider_vertical_holo_dark">@drawable/framework_res_divider_vertical_holo_dark</item>
 	<item name="drawable/divider_vertical_holo_light">@drawable/framework_res_divider_vertical_holo_light</item>
 	<!-- png -->
+	<item name="drawable/ic_menu_moreoverflow_normal_holo_light">@drawable/framework_res_ic_menu_moreoverflow_normal_holo_light</item>
 	<item name="drawable/fastscroll_thumb_default_holo">@drawable/fastscroll_thumb_default_holo</item>
 	<item name="drawable/fastscroll_thumb_pressed_holo">@drawable/fastscroll_thumb_pressed_holo</item>
 	<item name="drawable/settings_header_raw">@drawable/framework_res_settings_header_raw</item>
