@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/stat_notify_email">@drawable/gmail_motion_icon</item>
+	<item name="color/quotedTextColor">@color/quotedTextColor</item>
+</resource-redirections>
