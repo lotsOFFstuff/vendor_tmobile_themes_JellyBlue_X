@@ -7,6 +7,10 @@
 	<color name="xda_font">#ffffffff</color>
 	<color name="keyHintLetterColor">#ff33B5E5</color>
 	<color name="suggestion_divider_background">#ff33B5E5</color>
+	<!-- clock -->
+	<color name="alarm_selected_color">#aa33B5E5</color>
+	<color name="blackish">#ff000000</color>
+	<color name="blackish_trans">#cc1E1E1E</color>
 	<!--swype colors-->
 	<color name="trace_color">#ffffffff</color>
 	<color name="about_swype_links">#ffffffff</color>
