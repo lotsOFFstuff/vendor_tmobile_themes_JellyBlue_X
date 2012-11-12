@@ -41,7 +41,7 @@
     </style>
     <style name="ListViewStyle" parent="@android:style/Widget.Holo.ListView">
         <item name="android:overScrollMode">always</item>
-        <item name="android:background">@drawable/com_android_contacts_background_dial_holo_dark</item>
+        <item name="android:background">@drawable/framework_res_background_holo_dark</item>
     </style>
     <style name="ContactsActionBarStyle" parent="@android:style/Widget.Holo.ActionBar.Solid">
         <item name="android:background">@drawable/framework_res_ab_bottom_solid_dark_holo</item>
@@ -56,7 +56,7 @@
     </style>
     <style name="ContactsActionBarTheme" parent="@android:style/Theme.Holo">
         <item name="android:dropDownListViewStyle">@style/ListViewDropdownStyle</item>
-        <item name="android:textColor">@color/holo_blue_light</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
         <item name="android:textColorHint">@color/snippet_text_color</item>
         <item name="android:popupMenuStyle">@android:style/Widget.Holo.PopupMenu</item>
     </style>
