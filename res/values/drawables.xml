@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<item type="drawable" name="notification_item_background_color">@drawable/framework_res_notification_bg_low_normal</item>
-	<item type="drawable" name="notification_item_background_color_pressed">@drawable/framework_res_notification_bg_low_pressed</item>
-	<item type="drawable" name="notification_template_icon_bg">@drawable/framework_res_notify_panel_notification_icon_bg</item>
+	<item type="drawable" name="notification_item_background_color">#c5000000</item>
+	<item type="drawable" name="notification_item_background_color_pressed">#7f33b5e5</item>
+	<item type="drawable" name="notification_template_icon_bg">#c5000000</item>
 	<item type="drawable" name="notification_number_text_color">#ffffffff</item>
 	<item type="drawable" name="ticker_background_color">#d81d1d1d</item>
 	<item type="drawable" name="status_bar_background">#ff000000</item>
@@ -10,11 +10,15 @@
 	<item type="drawable" name="status_bar_notification_row_background_color">#ff000000</item>
 	<item type="drawable" name="recents_callout_line">#99ffffff</item>
 	<item type="drawable" name="notification_item_background_legacy_color">#7f33b5e5</item>
-	<item type="drawable" name="notification_icon_area_smoke">#ff000000</item>
+	<item type="drawable" name="notification_icon_area_smoke">#c5000000</item>
 	<item type="drawable" name="status_bar_recents_background_solid">#ff000000</item>
-	<item type="drawable" name="notification_header_bg">#7f000000</item>
-	<item type="drawable" name="notification_template_icon_low_bg">#ff000000</item>
+	<item type="drawable" name="notification_header_bg">#c5000000</item>
+	<item type="drawable" name="notification_template_icon_low_bg">#c5000000</item>
 	<item type="drawable" name="intruder_bg_pressed">#ff33b5e5</item>
 	<item type="drawable" name="nav_bar_bg">#ff000000</item>
 
+	<!-- mms drawable -->
+	<item type="drawable" name="class_zero_background">#7f000000</item>
+	<item type="drawable" name="text_color_red">#ffff4444</item>
+	<item type="drawable" name="text_color_black">#ff000000</item>
 </resources>

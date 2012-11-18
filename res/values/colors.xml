@@ -8,6 +8,8 @@
 	<color name="xda_font">#ffffffff</color>
 	<color name="keyHintLetterColor">#ff33B5E5</color>
 	<color name="suggestion_divider_background">#ff33B5E5</color>
+	<color name="white">#ffffffff</color>
+	<color name="transparent">#00000000</color>
 	<!-- clock -->
 	<color name="alarm_selected_color">#aa33B5E5</color>
 	<color name="blackish">#ff000000</color>
