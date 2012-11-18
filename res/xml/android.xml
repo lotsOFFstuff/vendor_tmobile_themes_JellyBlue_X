@@ -412,6 +412,8 @@
 	<item name="drawable/ab_stacked_transparent_light_holo">@drawable/framework_res_ab_stacked_transparent_light_holo</item>
 	<item name="drawable/ab_transparent_dark_holo">@drawable/framework_res_ab_transparent_dark_holo</item>
 	<item name="drawable/ab_transparent_light_holo">@drawable/framework_res_ab_transparent_light_holo</item>
+	<item name="drawable/list_focused_holo">@drawable/frameworks_res_list_focused_holo</item>
+
 	<!-- buttons -->
 	<item name="drawable/btn_check_off_disabled_focused_holo_dark">@drawable/framework_res_btn_check_off_disabled_focused_holo_dark</item>
 	<item name="drawable/btn_check_off_disabled_focused_holo_light">@drawable/framework_res_btn_check_off_disabled_focused_holo_light</item>
