@@ -16,7 +16,7 @@
  -->
  
 <resource-redirections>
-	<item name="workspace_icon_text_color">@nova_workspace_icon_text_color</color>
+	<item name="color/workspace_icon_text_color">@color/nova_workspace_icon_text_color</item>
 	<item name="drawable/ic_home_all_apps_holo_dark">@drawable/ic_home_all_apps_holo_dark</item>
 	<item name="drawable/ic_home_menu_overflow_holo_dark">@drawable/ic_home_menu_overflow_holo_dark</item>
 	<item name="drawable/ic_home_search_google_g_jellybean">@drawable/ic_home_search_google_g_jellybean</item>
