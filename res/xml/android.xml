@@ -359,16 +359,6 @@
 	<item name="drawable/tab_selected_v4">@drawable/framework_res_tab_selected_v4</item>
 	<item name="drawable/tab_unselected">@drawable/framework_res_tab_unselected</item>
 	<item name="drawable/tab_unselected_v4">@drawable/framework_res_tab_unselected_v4</item>
-	<item name="drawable/textfield_default">@drawable/framework_res_textfield_default</item>
-	<item name="drawable/textfield_disabled">@drawable/framework_res_textfield_disabled</item>
-	<item name="drawable/textfield_disabled_selected">@drawable/framework_res_textfield_disabled_selected</item>
-	<item name="drawable/textfield_search_default">@drawable/framework_res_textfield_search_default</item>
-	<item name="drawable/textfield_search_empty_default">@drawable/framework_res_textfield_search_empty_default</item>
-	<item name="drawable/textfield_search_empty_pressed">@drawable/framework_res_textfield_search_empty_pressed</item>
-	<item name="drawable/textfield_search_empty_selected">@drawable/framework_res_textfield_search_empty_selected</item>
-	<item name="drawable/textfield_search_pressed">@drawable/framework_res_textfield_search_pressed</item>
-	<item name="drawable/textfield_search_selected">@drawable/framework_res_textfield_search_selected</item>
-	<item name="drawable/textfield_selected">@drawable/framework_res_textfield_selected</item>
 	<item name="drawable/toast_frame">@drawable/framework_res_toast_frame</item>
 	<item name="drawable/toast_frame_holo">@drawable/framework_res_toast_frame_holo</item>
 	<item name="drawable/transportcontrol_bg">@drawable/framework_res_transportcontrol_bg</item>
