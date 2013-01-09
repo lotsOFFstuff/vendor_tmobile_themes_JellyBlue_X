@@ -20,7 +20,7 @@
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.TUN_SD.theme.JellyBlue_X"
     android:hasCode="false"
-    android:versionCode="1" android:versionName="9.5">
+    android:versionCode="1" android:versionName="9.6">
 
     <application name="JellyBlue_X" android:hasCode="false" android:icon="@drawable/icon" android:label="JellyBlue_X">
     </application>
