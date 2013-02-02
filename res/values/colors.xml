@@ -11,6 +11,7 @@
 	<color name="white">#ffffffff</color>
 	<color name="transparent">#00000000</color>
 	<color name="nova_workspace_icon_text_color">#ff33B5E5</color>
+	<color name="holo_blue_dark">#ff007299</color>
 	<!-- clock -->
 	<color name="alarm_selected_color">#aa33B5E5</color>
 	<color name="blackish">#ff000000</color>
