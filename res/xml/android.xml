@@ -4,6 +4,8 @@
 	<item name="drawable/background_holo_light">@drawable/background_holo_light</item>
 	<item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
 	<item name="drawable/progress_horizontal">@drawable/framework_res_progress_horizontal</item>
+	<item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
+	<item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
 	<!-- lockscreen -->
 	<item name="drawable/ic_lockscreen_alarm_activated">@drawable/framework_res_ic_lockscreen_alarm_activated</item>
 	<item name="drawable/ic_lockscreen_alarm_normal">@drawable/framework_res_ic_lockscreen_alarm_normal</item>
@@ -104,6 +106,14 @@
 	<item name="drawable/divider_vertical_holo_dark">@drawable/framework_res_divider_vertical_holo_dark</item>
 	<item name="drawable/divider_vertical_holo_light">@drawable/framework_res_divider_vertical_holo_light</item>
 	<!-- png -->
+	<item name="drawable/scrubber_control_disabled_holo">@drawable/framework_res_scrubber_control_disabled_holo</item>
+	<item name="drawable/scrubber_control_focused_holo">@drawable/framework_res_scrubber_control_focused_holo</item>
+	<item name="drawable/scrubber_control_normal_holo">@drawable/framework_res_scrubber_control_normal_holo</item>
+	<item name="drawable/scrubber_control_pressed_holo">@drawable/framework_res_scrubber_control_pressed_holo</item>
+	<item name="drawable/scrubber_primary_holo">@drawable/framework_res_scrubber_primary_holo</item>
+	<item name="drawable/scrubber_secondary_holo">@drawable/framework_res_scrubber_secondary_holo</item>
+	<item name="drawable/scrubber_track_holo_dark">@drawable/framework_res_scrubber_track_holo_dark</item>
+	<item name="drawable/scrubber_track_holo_light">@drawable/framework_res_scrubber_track_holo_light</item>
 	<item name="drawable/ab_bottom_solid_dark_holo">@drawable/framework_res_ab_bottom_solid_dark_holo</item>
 	<item name="drawable/ab_bottom_solid_inverse_holo">@drawable/framework_res_ab_bottom_solid_inverse_holo</item>
 	<item name="drawable/ab_bottom_solid_light_holo">@drawable/framework_res_ab_bottom_solid_light_holo</item>

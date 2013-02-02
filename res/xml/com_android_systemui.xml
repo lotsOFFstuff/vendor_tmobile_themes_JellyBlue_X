@@ -124,6 +124,14 @@
 	<item name="drawable/toggle_wifi_ap">@drawable/com_android_systemui_toggle_wifi_ap</item>
 	<item name="drawable/toggle_wifi_ap_off">@drawable/com_android_systemui_toggle_wifi_ap_off</item>
 	<item name="drawable/toggle_wifi_off">@drawable/com_android_systemui_toggle_wifi_off</item>
+	<item name="drawable/ic_qs_battery_neutral">@drawable/com_android_systemui_ic_qs_battery_neutral</item>
+	<item name="drawable/ic_qs_battery_unknown">@drawable/com_android_systemui_ic_qs_battery_unknown</item>
+
+	<!-- battery -->
+	<item name="drawable/stat_sys_battery">@drawable/com_android_systemui_stat_sys_battery</item>
+	<item name="drawable/stat_sys_battery_charge">@drawable/com_android_systemui_stat_sys_battery_charge</item>
+	<item name="drawable/qs_sys_battery">@drawable/com_android_systemui_qs_sys_battery</item>
+	<item name="drawable/qs_sys_battery_charging">@drawable/com_android_systemui_qs_sys_battery_charging</item>
 	<!-- signal -->
 	<item name="drawable/stat_sys_signal_0">@drawable/com_android_systemui_stat_sys_signal_0</item>
 	<item name="drawable/stat_sys_signal_0_alt">@drawable/com_android_systemui_stat_sys_signal_0_alt</item>
