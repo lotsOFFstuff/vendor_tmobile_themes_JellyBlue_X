@@ -13,6 +13,8 @@
 	<item name="style/TextAppearance.QuickSettings">@style/TextAppearance.QuickSettings</item>
 	<item name="style/TextAppearance.QuickSettings.TileView">@style/TextAppearance.QuickSettings.TileView</item>
 	<!-- png -->
+	<item name="drawable/ic_qs_ime">@drawable/com_android_systemui_ic_qs_ime</item>
+
 	<item name="drawable/ic_notify_open_normal">@drawable/com_android_systemui_ic_notify_open_pressed</item>
 	<item name="drawable/ic_notify_open_normal">@drawable/com_android_systemui_ic_notify_open_normal</item>
 	<item name="drawable/btn_default_small_normal">@drawable/framework_res_btn_default_small_normal</item>
