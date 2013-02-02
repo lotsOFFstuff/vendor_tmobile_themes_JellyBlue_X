@@ -43,12 +43,12 @@
         <item name="android:textAllCaps">true</item>
     </style>
 	<style name="Theme.Holo.Light" parent="@*android:style/Theme.Holo">
-        <item name="android:textColorPrimary">@color/holo_blue_dark</item>
-        <item name="android:textColorSecondary">@color/holo_blue_dark</item>
+        <item name="android:textColorPrimary">#ff727272</item>
+        <item name="android:textColorSecondary">#ff727272</item>
         <item name="android:textColorPrimaryInverse">@color/white</item>
-        <item name="android:textColorSecondaryInverse">@*android:color/holo_blue_light</item>
+        <item name="android:textColorSecondaryInverse">@*android:color/holo_blue_dark</item>
         <item name="android:popupWindowStyle">@*android:style/Widget.Holo.PopupWindow</item>
-        <item name="android:textColor">@*android:color/holo_blue_light</item>
+        <item name="android:textColor">@*android:color/holo_blue_dark</item>
         <item name="android:popupMenuStyle">@*android:style/Widget.Holo.PopupMenu</item>
         <item name="android:editTextColor">@color/holo_blue_dark</item>
         <item name="android:textCursorDrawable">@drawable/framework_res_text_cursor_holo_light</item>
@@ -57,13 +57,13 @@
     <style name="Theme.Holo.Light.Dialog" parent="@*android:style/Theme.Holo.Dialog">
         <item name="android:textAppearance">@*android:style/TextAppearance.Holo</item>
         <item name="android:textAppearanceInverse">@*android:style/TextAppearance.Holo.Inverse</item>
-        <item name="android:textColorPrimary">@*android:color/holo_blue_light</item>
-        <item name="android:textColorSecondary">@color/holo_blue_dark</item>
-        <item name="android:editTextColor">@*android:color/holo_blue_light</item>
+        <item name="android:textColorPrimary">@*android:color/holo_blue_dark</item> 
+        <item name="android:textColorSecondary">#ffffffff</item>
+        <item name="android:editTextColor">@*android:color/holo_blue_dark</item>
         <item name="android:textCursorDrawable">@drawable/framework_res_text_cursor_holo_light</item>
     </style>
     <style name="Theme.Holo.Light.DarkActionBar" parent="@style/Theme.Holo.Light.DarkActionBar">
-        <item name="android:textColor">@*android:color/holo_blue_light</item>
+        <item name="android:textColor">@*android:color/holo_blue_dark</item>
         <item name="android:actionMenuTextColor">?android:textColorPrimary</item>
     </style>
     <style name="Widget.CompoundButton" parent="@*android:style/Widget.CompoundButton">
@@ -73,13 +73,13 @@
         <item name="android:textColor">@color/holo_blue_dark</item>
     </style>
     <style name="TextAppearance.Widget.DropDownItem" parent="@*android:style/TextAppearance.Widget">
-        <item name="android:textColor">@*android:color/holo_blue_light</item>
+        <item name="android:textColor">@*android:color/holo_blue_dark</item>
     </style>
     <style name="TextAppearance.Holo.Widget.DropDownHint" parent="@*android:style/TextAppearance.Holo.Widget">
-        <item name="android:textColor">@*android:color/holo_blue_light</item>
+        <item name="android:textColor">@*android:color/holo_blue_dark</item>
     </style>
     <style name="TextAppearance.Holo.Widget.DropDownItem" parent="@*android:style/TextAppearance.Holo.Widget">
-        <item name="android:textColor">@*android:color/holo_blue_light</item>
+        <item name="android:textColor">@*android:color/holo_blue_dark</item>
     </style>
     <style name="TextAppearance.Holo.Widget.TextView.SpinnerItem" parent="@*android:style/TextAppearance.Holo.Widget.TextView">
         <item name="android:textColor">@color/holo_blue_dark</item>
@@ -93,7 +93,7 @@
     </style>
     <style name="TextAppearance.Holo.DialogWindowTitle" parent="@*android:style/TextAppearance.Holo">
         <item name="android:textSize">22.0sp</item>
-        <item name="android:textColor">@*android:color/holo_blue_light</item>
+        <item name="android:textColor">@*android:color/holo_blue_dark</item>
     </style>
 	<!-- contacts styles -->
     <style name="Theme.QuickContact" parent="@android:style/Theme.Holo">
