@@ -15,7 +15,6 @@
 	<item name="drawable/data_grid_border">@drawable/com_android_settings_data_grid_border</item>
 	<item name="drawable/data_grid_primary">@drawable/com_android_settings_data_grid_primary</item>
 	<item name="drawable/data_grid_secondary">@drawable/com_android_settings_data_grid_secondary</item>
-	<item name="drawable/dotted_line_480px">@drawable/com_android_settings_dotted_line_480px</item>
 	<item name="drawable/ic_default_user">@drawable/com_android_settings_ic_default_user</item>
 	<item name="drawable/preview">@drawable/com_android_settings_preview</item>
 </resource-redirections>
