@@ -135,6 +135,9 @@
 	<item name="drawable/qs_sys_battery">@drawable/com_android_systemui_qs_sys_battery</item>
 	<item name="drawable/qs_sys_battery_charging">@drawable/com_android_systemui_qs_sys_battery_charging</item>
 	<!-- signal -->
+	<item name="drawable/com_android_systemui_stat_sys_wifi_out">@drawable/com_android_systemui_stat_sys_wifi_out</item>
+	<item name="drawable/com_android_systemui_stat_sys_wifi_in">@drawable/com_android_systemui_stat_sys_wifi_in</item>
+	<item name="drawable/com_android_systemui_stat_sys_wifi_inout">@drawable/com_android_systemui_stat_sys_wifi_inout</item>
 	<item name="drawable/stat_sys_signal_0">@drawable/com_android_systemui_stat_sys_signal_0</item>
 	<item name="drawable/stat_sys_signal_0_alt">@drawable/com_android_systemui_stat_sys_signal_0_alt</item>
 	<item name="drawable/stat_sys_signal_0_fully">@drawable/com_android_systemui_stat_sys_signal_0_fully</item>
