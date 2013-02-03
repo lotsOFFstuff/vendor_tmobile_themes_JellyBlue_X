@@ -11,7 +11,24 @@
 	<color name="white">#ffffffff</color>
 	<color name="transparent">#00000000</color>
 	<color name="nova_workspace_icon_text_color">#ff33B5E5</color>
-	<color name="holo_blue_dark">#ff007299</color>
+	<color name="holo_blue_dark">#ff0099CC</color>
+	<color name="holo_blue_light">#ff33B5E5</color>
+    <color name="holo_blue_bright">#ff898989</color>
+	
+	<color name="Navy">#ff000080</color>
+	<color name="Blue">#ff0000FF</color>
+	<color name="Green">#ff008000</color>
+	<color name="Teal">#ff008080</color>
+	<color name="Lime">#ff00FF00</color>
+	<color name="Aqua">#ff00FFFF</color>
+	<color name="Maroon">#ff800000</color>
+	<color name="Purple">#ff800080</color>
+	<color name="Olive">#ff808000</color>
+	<color name="gray">#ff808080</color>
+	<color name="Silver">#ff707070</color>
+	<color name="Red">#ffFF0000</color>
+	<color name="Fuchsia">#ffFF00FF</color>
+	<color name="Yellow">#ffFFFF00</color>
 	<!-- clock -->
 	<color name="alarm_selected_color">#aa33B5E5</color>
 	<color name="blackish">#ff000000</color>
@@ -74,7 +91,7 @@
     <color name="com_android_mms_text_hairline">#ffafafaf</color>
     <color name="com_android_mms_message_count_color">#6633B5E5</color>
     <color name="com_android_mms_timestamp_color">#bfefefef</color>
-    <color name="com_android_mms_unread_bgcolor">#ff000000</color>
+    <color name="com_android_mms_unread_bgcolor">#9933B5E5</color>
     <color name="com_android_mms_read_bgcolor">#ff000000</color>
     <color name="com_android_mms_widget_sender_text_color_unread">#ffffffff</color>
     <color name="com_android_mms_widget_subject_text_color_read">#ffbfbfbf</color>
@@ -88,7 +105,7 @@
     <color name="com_android_mms_delivery_report_status">#ff33B5E5</color>
     <color name="com_android_mms_delivery_report_date">#ffffffff</color>
     <color name="com_android_mms_button_text">#ffffffff</color>
-    <color name="com_android_mms_widget_unread_text">#ffffffff</color>
+    <color name="com_android_mms_widget_unread_text">#ff33B5E5</color>
     <color name="com_android_mms_widget_loading">#ff000000</color>
     <color name="com_android_mms_background">#ff000000</color>
     <color name="com_android_mms_darkgray_backgrounds">#ff000000</color>
