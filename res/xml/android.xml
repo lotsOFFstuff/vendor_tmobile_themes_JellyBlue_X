@@ -536,6 +536,12 @@
 	<item name="drawable/weather_8">@drawable/framework_res_weather_8</item>
 	<item name="drawable/weather_9">@drawable/framework_res_weather_9</item>
 	<item name="drawable/weather_na">@drawable/framework_res_weather_na</item>
+	<!-- colors -->
+	<item name="color/keyguard_avatar_frame_pressed_color">@color/holo_blue_light</item>
+	<item name="color/primary_text_holo_light">@color/holo_blue_dark</item>
+	<item name="color/secondary_text_holo_light">@color/holo_blue_dark</item>
+	<item name="color/tertiary_text_holo_light">@color/holo_blue_dark</item>
+
 	<!-- styles -->
 	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
 	<item name="style/TextAppearance.Small">@style/TextAppearance.Small</item>
@@ -551,7 +557,6 @@
     <item name="style/TextAppearance.Holo.Widget.TextView.SpinnerItem">@style/TextAppearance.Holo.Widget.TextView.SpinnerItem</item>
     <item name="style/TextAppearance.Widget.DropDownHint">@style/TextAppearance.Widget.DropDownHint</item>
     <item name="style/TextAppearance.Widget.DropDownItem">@style/TextAppearance.Widget.DropDownItem</item>
-    <item name="style/Theme.Holo.Light">@style/Theme.Holo.Light</item>
     <item name="style/Theme.Holo.Light.Dialog">@style/Theme.Holo.Light.Dialog</item>
     <item name="style/Widget.CompoundButton">@style/Widget.CompoundButton</item>
 </resource-redirections>
