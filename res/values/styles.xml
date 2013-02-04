@@ -183,4 +183,8 @@
     <style name="com_android_mms_NotificationSubjectText">
         <item name="android:textColor">#ffefefef</item>
     </style>
+    <style name="deleteThreadTextAppearance" parent="@*android:attr/textAppearanceMedium">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">#ff33B5E5</item>
+    </style>
 </resources>
