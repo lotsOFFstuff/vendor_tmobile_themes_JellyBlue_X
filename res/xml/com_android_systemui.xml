@@ -16,6 +16,7 @@
 	<item name="style/TextAppearance">@style/TextAppearance</item>
 	<item name="style/TextAppearance.QuickSettings">@style/TextAppearance.QuickSettings</item>
 	<item name="style/TextAppearance.QuickSettings.TileView">@style/TextAppearance.QuickSettings.TileView</item>
+	<item name="style/TextAppearance.StatusBar.TextButton">@style/TextAppearance.StatusBar.TextButton</item>
 	<!-- png -->
 	<item name="drawable/ic_qs_ime">@drawable/com_android_systemui_ic_qs_ime</item>
 	<item name="drawable/ic_notify_open_normal">@drawable/com_android_systemui_ic_notify_open_pressed</item>

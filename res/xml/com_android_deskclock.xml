@@ -58,7 +58,6 @@
 	<!-- colors -->
 	<item name="color/clock_red">@color/keyHintLetterColor</item>
 	<item name="color/red">@color/keyHintLetterColor</item>
-	<item name="color/notification_bg">@color/xda_background</item>
 	<item name="color/alarm_selected_color">@color/alarm_selected_color</item>
 	<item name="color/blackish">@color/blackish</item>
 	<item name="color/blackish_trans">@color/blackish_trans</item>
