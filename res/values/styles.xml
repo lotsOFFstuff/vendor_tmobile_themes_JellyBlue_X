@@ -42,7 +42,7 @@
         <item name="android:drawablePadding">12.0dip</item>
         <item name="android:textAllCaps">true</item>
     </style>
-	<style name="TextAppearance.StatusBar.TextButton" parent="@*android:style/TextAppearance.StatusBar">
+	<style name="TextAppearance.StatusBar.TextButton" parent="@style/TextAppearance.QuickSettings">
         <item name="android:textAppearance">?android:textAppearance</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">#ff33B5E5</item>
