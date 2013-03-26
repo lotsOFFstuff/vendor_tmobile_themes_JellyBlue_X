@@ -46,7 +46,7 @@
 	<item name="drawable/ic_start_normal">@drawable/com_android_deskclock_ic_start_normal</item>
 	<item name="drawable/ic_stop_normal">@drawable/com_android_deskclock_ic_stop_normal</item>
 	<item name="drawable/ic_tab_clock">@drawable/com_android_deskclock_ic_tab_clock</item>
-	<item name="drawable/ic_tab_clock_activated">@drawable/com_android_deskclock_ic_tab_clock_activated</item>
+	<item name="drawable/ic_tab_clock_activated">@drawable/com_android_deskclock_ic_tab_clock</item>
 	<item name="drawable/ic_tab_clock_normal">@drawable/com_android_deskclock_ic_tab_clock_normal</item>
 	<item name="drawable/ic_tab_stopwatch">@drawable/com_android_deskclock_ic_tab_stopwatch</item>
 	<item name="drawable/ic_tab_stopwatch_activated">@drawable/com_android_deskclock_ic_tab_stopwatch_activated</item>
@@ -58,10 +58,17 @@
 	<!-- colors -->
 	<item name="color/clock_red">@color/keyHintLetterColor</item>
 	<item name="color/red">@color/keyHintLetterColor</item>
+	<item name="color/notification_bg">@color/xda_background</item>
 	<item name="color/alarm_selected_color">@color/alarm_selected_color</item>
 	<item name="color/blackish">@color/blackish</item>
 	<item name="color/blackish_trans">@color/blackish_trans</item>
 	<!-- drawables -->
+	<item name="drawable/footer_bg">@drawable/footer_bg</item>
+	<item name="drawable/clock_selector">@drawable/clock_selector</item>
+	<item name="drawable/header_bg">@drawable/header_bg</item>
+	<item name="drawable/header_bg_bar">@drawable/header_bg_bar</item>
+
+	<item name="drawable/holo_selector_nonfocusable">@drawable/holo_selector_nonfocusable</item>
 	<item name="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 	<item name="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
 	<item name="drawable/notification_bg">@drawable/com_google_android_deskclock_notification_bg</item>
