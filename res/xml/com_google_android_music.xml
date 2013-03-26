@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/bkgnd">@drawable/com_google_android_music_bkgnd</item>
+	<item name="drawable/ic_album_default_bg_blue">@drawable/com_google_android_music_ic_album_default_bg_blue</item>
+	<item name="drawable/notify_panel_notification_icon_bg">@drawable/framework_res_notify_panel_notification_icon_bg</item>
+	<item name="drawable/menu_dropdown_panel_holo_dark">@drawable/framework_res_menu_dropdown_panel_holo_dark</item>
+	<item name="drawable/appwidget_bg">@drawable/com_android_settings_appwidget_bg_holo</item>
+	<item name="drawable/ab_bottom_transparent_dark_holo">@drawable/framework_res_ab_bottom_solid_dark_holo</item>
+	<item name="drawable/glossy_overlay">@drawable/glossy_overlay</item>
+	<item name="drawable/bg_now_playing_bar">@drawable/bg_now_playing_bar</item>
+	<item name="drawable/bg_make_available_offline_panel">@drawable/framework_res_notify_panel_notification_icon_bg</item>
+	<item name="color/pure_black_bg">@color/black</item>
+	<item name="color/search_list_header_background">@color/black</item>
+	<item name="color/primary_text_color">@color/holo_blue_light</item>
+	<item name="color/secondary_text_color">@color/white</item>
+	<item name="color/waveform_selected">@color/white</item>
+	<item name="color/waveform_unselected">@color/black</item>
+	<item name="color/waveform_unselected_bkgnd_overlay">@color/black</item>
+	<item name="color/now_playing_title_bar">@color/black</item>
+	<item name="color/now_playing_list_bg">@color/black</item>
+	<item name="color/carousel_background">@color/black</item>
+	<item name="color/at_home_background_color">@color/black</item>
+	</resource-redirections>

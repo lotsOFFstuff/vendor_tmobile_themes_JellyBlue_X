@@ -8,6 +8,7 @@
 	<item name="color/status_bar_recents_app_label_color">@color/status_bar_recents_app_label_color</item>
 	<item name="color/notification_list_shadow_top">@color/notification_list_shadow_top</item>
 	<!-- styles -->
+	
 	<item name="style/TextAppearance.StatusBar.Expanded.Clock">@style/TextAppearance.StatusBar.Expanded.Clock</item>
 	<item name="style/TextAppearance.StatusBar.Expanded.Date">@style/TextAppearance.StatusBar.Expanded.Date</item>
 	<item name="style/TextAppearance.StatusBar.BatteryTextOnly_Plugged">@style/TextAppearance.StatusBar.BatteryTextOnly_Plugged</item>
@@ -17,7 +18,6 @@
 	<item name="style/TextAppearance.QuickSettings.TileView">@style/TextAppearance.QuickSettings.TileView</item>
 	<!-- png -->
 	<item name="drawable/ic_qs_ime">@drawable/com_android_systemui_ic_qs_ime</item>
-
 	<item name="drawable/ic_notify_open_normal">@drawable/com_android_systemui_ic_notify_open_pressed</item>
 	<item name="drawable/ic_notify_open_normal">@drawable/com_android_systemui_ic_notify_open_normal</item>
 	<item name="drawable/btn_default_small_normal">@drawable/framework_res_btn_default_small_normal</item>
