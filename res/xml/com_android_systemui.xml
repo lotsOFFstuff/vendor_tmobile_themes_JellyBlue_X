@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 	<!-- colors -->
-	<item name="notification_number_text_color">@color/notification_number_text_color</item>
-	<item name="toggle_text">@color/toggle_text</item>
-	<item name="toggle_text_changing_state_color">@color/toggle_text_changing_state_color</item>
+	<item name="color/notification_number_text_color">@color/notification_number_text_color</item>
+	<item name="color/toggle_text">@color/toggle_text</item>
+	<item name="color/toggle_text_changing_state_color">@color/toggle_text_changing_state_color</item>
 	<item name="color/notification_panel_solid_background">@color/notification_panel_solid_background</item>
 	<item name="color/status_bar_recents_app_label_color">@color/status_bar_recents_app_label_color</item>
 	<item name="color/notification_list_shadow_top">@color/notification_list_shadow_top</item>
