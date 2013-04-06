@@ -37,11 +37,14 @@
 	<color name="blackish">#ff000000</color>
 	<color name="blackish_trans">#ff000000</color>
 	<!--swype colors-->
-	<color name="trace_color">#ffffffff</color>
-	<color name="about_swype_links">#ffffffff</color>
-	<color name="word_inline_background_color">#ffffffff</color>
-	<color name="candidate_recommended">#ffffffff</color>
-	<color name="ver_candidate_recommended">#ffffffff</color>
+	<color name="trace_classic_orange">#b233B5E5</color>
+	<color name="trace_classic_orange_opaque">#ff33B5E5</color>
+	<color name="orange">#ff33B5E5</color>
+	<color name="trace_color">#ff33B5E5</color>
+	<color name="about_swype_links">#ff33B5E5</color>
+	<color name="word_inline_background_color">#ff33B5E5</color>
+	<color name="candidate_recommended">#ff33B5E5</color>
+	<color name="ver_candidate_recommended">#ff33B5E5</color>
 
 <!-- contacts colors -->
 	<color name="con_textColorIconOverlay">@color/theme_primary_trans</color>
