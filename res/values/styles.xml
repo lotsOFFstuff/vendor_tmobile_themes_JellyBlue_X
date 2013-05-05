@@ -62,6 +62,10 @@
         <item name="android:textCursorDrawable">@drawable/framework_res_text_cursor_holo_light</item>
         <item name="android:widgetCategory">home_screen|keyguard</item>
     </style>
+	<style name="com_google_android_apps_maps_Theme.Fullscreen" parent="@*android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@*android:style/Widget.ActionBar</item>
+        <item name="android:selectableItemBackground">@*android:drawable/list_selector_background</item>
+    </style>
     <style name="Theme.Holo.Light.Dialog" parent="@*android:style/Theme.Holo.Dialog">
         <item name="android:textAppearance">@*android:style/TextAppearance.Holo</item>
         <item name="android:textAppearanceInverse">@*android:style/TextAppearance.Holo.Inverse</item>
