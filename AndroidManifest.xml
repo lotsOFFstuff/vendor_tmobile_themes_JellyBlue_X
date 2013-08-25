@@ -20,12 +20,12 @@
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.TUN_SD.theme.JellyBlue_X"
     android:hasCode="false"
-    android:versionCode="3" 
-    android:versionName="1.2">
+    android:versionCode="4" 
+    android:versionName="1.3">
 
 <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="17" />
+        android:targetSdkVersion="18" />
 
     <application name="JellyBlue_X" android:hasCode="false" android:icon="@drawable/icon" android:label="JellyBlue_X">
     </application>
